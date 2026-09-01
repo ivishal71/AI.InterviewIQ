@@ -11,7 +11,8 @@ import pricing from "./Pages/pricing";
 import InterviewHistory from "./Pages/InterviewHistory";
 import InterviewReport from "./Pages/InterviewReport";
 
-export const ServerUrl = "http://localhost:8000";
+// export const ServerUrl = "http://localhost:8000";
+export const ServerUrl = "https://ai-interviewiq-backend.onrender.com";
 
 // export const ServerUrl = "http://127.0.0.1:8000";
 
