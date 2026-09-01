@@ -18,7 +18,7 @@ import interviewRouter from "./Routes/interview.route.js";
 //MIDDLEWARE---
 app.use(
   cors({
-    origin: true,
+    origin: "https://ai-interview-iq-green.vercel.app",
     credentials: true,
   }),
 );
